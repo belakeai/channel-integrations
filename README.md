@@ -63,9 +63,9 @@ We love contributions from Belake clients and partners! See [CONTRIBUTING.md](./
 
 Thanks to everyone who makes this project better! 🎉
 
-[![Contributors](https://contrib.rocks/image?repo=belake/channel-integrations)](https://github.com/belake/channel-integrations/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=belakeai/channel-integrations)](https://github.com/belakeai/channel-integrations/graphs/contributors)
 
-*[Add yourself](https://github.com/belake/channel-integrations/graphs/contributors) by opening a PR!*
+*[Add yourself](https://github.com/belakeai/channel-integrations/graphs/contributors) by opening a PR!*
 
 ---
 
