@@ -1,0 +1,40 @@
+{
+    "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.13/MicrosoftTeams.schema.json",
+    "manifestVersion": "1.13",
+    "version": "1.0.0",
+    "id": "REPLACE_WITH_YOUR_GUID",
+    "packageName": "com.yourcompany.belake",
+    "developer": {
+      "name": "Your Company",
+      "websiteUrl": "https://belake.ai",
+      "privacyUrl": "https://belake.ai/privacy",
+      "termsOfUseUrl": "https://belake.ai/terms"
+    },
+    "name": {
+      "short": "Belake.ai",
+      "full": "Belake.ai - Business Intelligence"
+    },
+    "description": {
+      "short": "Access Belake.ai from Teams",
+      "full": "Access Belake.ai portal - documents, reports, and chat - directly from Microsoft Teams."
+    },
+    "icons": {
+      "color": "color.png",
+      "outline": "outline.png"
+    },
+    "accentColor": "#0074F9",
+    "staticTabs": [
+      {
+        "entityId": "belake-tab",
+        "name": "Belake.ai",
+        "contentUrl": "https://YOUR_BELAKE_PORTAL_URL/",
+        "websiteUrl": "https://YOUR_BELAKE_PORTAL_URL/",
+        "scopes": ["personal"]
+      }
+    ],
+    "validDomains": [
+      "your-belake-domain.com"
+    ],
+    "defaultInstallScope": "personal"
+  }
+  
