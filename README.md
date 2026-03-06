@@ -1,7 +1,7 @@
 # Belake Channel Integrations
 
-[![GitHub Stars](https://img.shields.io/github/stars/belake/channel-integrations?style=social)](https://github.com/belake/channel-integrations/stargazers)
-[![Contributors](https://img.shields.io/github/contributors/belake/channel-integrations)](https://github.com/belake/channel-integrations/graphs/contributors)
+[![GitHub Stars](https://img.shields.io/github/stars/belakeai/channel-integrations?style=social)](https://github.com/belakeai/channel-integrations/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/belakeai/channel-integrations)](https://github.com/belakeai/channel-integrations/graphs/contributors)
 
 > 🚀 **Integrate Belake.ai anywhere** — Deploy agents and capabilities across Teams, n8n, WhatsApp, and more.
 
