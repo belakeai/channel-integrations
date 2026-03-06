@@ -28,9 +28,9 @@ Be respectful and constructive. This repository serves multiple Belake clients a
 ### Naming
 
 - **Channels**: `kebab-case` (e.g., `microsoft-teams`, `slack`, `web-chat`)
-- **Integration types**: `kebab-case` (e.g., `deploy-app`, `copilot-studio-agent`, `messaging-extension`)
+- **Integration types**: `kebab-case` (e.g., `teams-app`, `copilot-studio-agent`, `messaging-extension`)
 - **Branches**: `channel/{channel-name}/{integration-type}` or `channel/{channel-name}` for new channels  
-  Examples: `channel/microsoft-teams/deploy-app`, `channel/slack/bot`
+Examples: `channel/microsoft-teams/teams-app`, `channel/slack/bot`
 
 ### File Structure
 
@@ -55,9 +55,9 @@ channels/{channel-name}/{integration-type}/
 ## Adding a New Channel
 
 1. Create `channels/{channel-name}/README.md` with:
-   - Channel description
-   - List of available integration types with links
-   - Links to official channel documentation
+  - Channel description
+  - List of available integration types with links
+  - Links to official channel documentation
 2. Add the channel to the main [README.md](./README.md) "Supported Channels" table.
 3. Use `_templates/sample-template/` as a base for your first integration.
 
@@ -78,10 +78,11 @@ channels/{channel-name}/{integration-type}/
 
 Before submitting, verify:
 
-- [ ] README is in English
-- [ ] Naming follows `kebab-case`
-- [ ] Prerequisites are clearly listed
-- [ ] Steps are numbered and reproducible
-- [ ] No hardcoded secrets or credentials
-- [ ] Main README table updated (if adding new sample)
-- [ ] Channel README updated (if adding new integration to existing channel)
+- README is in English
+- Naming follows `kebab-case`
+- Prerequisites are clearly listed
+- Steps are numbered and reproducible
+- No hardcoded secrets or credentials
+- Main README table updated (if adding new sample)
+- Channel README updated (if adding new integration to existing channel)
+

@@ -11,7 +11,7 @@
 
 ## Channel / Integration
 
-<!-- e.g., microsoft-teams / deploy-app -->
+<!-- e.g., microsoft-teams / teams-app -->
 
 **Channel:**  
 **Integration type:**

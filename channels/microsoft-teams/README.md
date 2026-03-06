@@ -6,7 +6,7 @@ Integrations for deploying Belake.ai agents and capabilities in Microsoft Teams.
 
 | Integration | Description |
 |-------------|-------------|
-| [Deploy as App](./deploy-app) | Deploy Belake as a Teams application |
+| [Deploy as App](./teams-app) | Deploy Belake as a Teams application |
 
 ## Prerequisites
 
